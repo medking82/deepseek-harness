@@ -9,7 +9,7 @@ user-invocable: true
 
 ## Invocation boundary
 
-Run this extended workflow only when the user explicitly invokes `dsh-translate-docs` by name. Never select or load it for ordinary documentation work, from another skill, or from an inferred translation need; routine translation follows the one-shot, one-pass rule in docs/retired repository instructions.
+Run this extended workflow only when the user explicitly invokes `dsh-translate-docs` by name. Never select or load it for ordinary documentation work, from another skill, or from an inferred translation need.
 
 ## What this skill is
 

@@ -3,8 +3,11 @@
 # After editing either side, bring the other along and re-record with:
 #   pnpm run verify-translation-pairing --write packages/client/store/README.md
 /:
-  en: f9e6c1b15e80658f
-  zh: 9127e32b7e5351d0
+  en: cb3f91d54eee30e5
+  zh: cb3f91d54eee30e5
+/description-observable-browser-state-stores-with-explicit-snapshots-subscriptions-and-lifecycle-ownership-kind-package-library:
+  en: 55fb2df5b95bb537
+  zh: a8497c3d360a01cd
 /deepseek-ai-dsh-client-store:
   en: 1b16aed0269bb07f
   zh: e37d3ba40aa82baf
@@ -12,8 +15,8 @@
   en: 8498ea148f51b9f9
   zh: 1009f009d2ebe91d
 /deepseek-ai-dsh-client-store/table-of-contents:
-  en: b4683d2a53256fda
-  zh: 4e65ff63dc8c48fe
+  en: ec0f82fa8ca5d6df
+  zh: df911b6de5ce52d8
 /deepseek-ai-dsh-client-store/model-experience:
   en: 444c8fcde6e159d8
   zh: dc855e149c636bb4
@@ -21,8 +24,8 @@
   en: ed7581186c5b5a33
   zh: a0efffb2631c1eec
 /deepseek-ai-dsh-client-store/known-limitations-and-deferred-work:
-  en: 3190cd5b744025fe
-  zh: f559c3316b6a7da4
+  en: 3730f1ea99946cb5
+  zh: 82dd042d7e09bd35
 /deepseek-ai-dsh-client-store/known-limitations-and-deferred-work/dev-note:
-  en: e67f633dc6fe7773
-  zh: e88aeb617ffb74ea
+  en: 34651d247c0d1bba
+  zh: 86522cb525d85ef7

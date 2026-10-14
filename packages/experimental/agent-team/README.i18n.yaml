@@ -3,8 +3,11 @@
 # After editing either side, bring the other along and re-record with:
 #   pnpm run verify-translation-pairing --write packages/experimental/agent-team/README.md
 /:
-  en: 6dbca19f6b32549f
-  zh: dae9c49eab8f6fee
+  en: cb3f91d54eee30e5
+  zh: cb3f91d54eee30e5
+/description-run-a-small-team-of-named-agents-in-one-session-durable-messages-between-members-and-a-shared-task-board-for-deployments-composing-the-experimental-team-plugins-kind-package-reference:
+  en: 586339f81b427bf2
+  zh: 4e02db7b499f79ea
 /deepseek-ai-dsh-experimental-agent-team:
   en: b28084855adcdabd
   zh: 59e3d49c3d63baf9
@@ -12,8 +15,8 @@
   en: 5b981abe3a308e53
   zh: 7116e552a40dc79f
 /deepseek-ai-dsh-experimental-agent-team/table-of-contents:
-  en: d152484eb41ac6b4
-  zh: 09388d293f9be9cb
+  en: eb6ed279e78f8b65
+  zh: 5583226de8ecca29
 /deepseek-ai-dsh-experimental-agent-team/use-this-package:
   en: 4cafc368a3abea63
   zh: 396189cbdc47b1f5
@@ -21,8 +24,8 @@
   en: 8da318ac2f4343d7
   zh: b31a399d6e3fd64e
 /deepseek-ai-dsh-experimental-agent-team/use-this-package/smallest-working-setup:
-  en: 4fccad6758905210
-  zh: 9037ddb1dc4b2666
+  en: 1a5a8df0903e9e70
+  zh: 703b6935cbad830f
 /deepseek-ai-dsh-experimental-agent-team/use-this-package/teammates:
   en: 5a314d1f80ecd31b
   zh: c34e6a93dd1e2045
@@ -39,14 +42,14 @@
   en: 0d523eb8ffe0a928
   zh: 270b2502db285ed8
 /deepseek-ai-dsh-experimental-agent-team/understand-the-implementation:
-  en: 6a18034f1ccc247a
-  zh: e08b0eb0ccb41ea8
+  en: 7f632a0bdd319d58
+  zh: 2b7dce5f4a6ac366
 /deepseek-ai-dsh-experimental-agent-team/understand-the-implementation/design-philosophy:
-  en: c08e8eb5bbac71ae
-  zh: d6fb32f1243a28d6
+  en: fb4c3e0a0950aa02
+  zh: fb68a398aabb818d
 /deepseek-ai-dsh-experimental-agent-team/understand-the-implementation/source-map:
-  en: 4e4189d2009a4e42
-  zh: 0ccbf29cf78f10af
+  en: 9f0c03bd6c65607d
+  zh: 1f246404a5155ca6
 /deepseek-ai-dsh-experimental-agent-team/understand-the-implementation/team-identity-and-roster:
   en: 85f97723e45e43de
   zh: def66721e21339cc
@@ -66,8 +69,8 @@
   en: 3ae69e3b7905cffe
   zh: 0fb159101f6d646b
 /deepseek-ai-dsh-experimental-agent-team/further-exploration:
-  en: 020d07f96ef2077d
-  zh: 9e771d38a02048e1
+  en: 7176f7697342a570
+  zh: b5b2b00ca5cc7046
 /deepseek-ai-dsh-experimental-agent-team/further-exploration/browser-projection:
   en: 4b3033806e6db528
   zh: 53e0dfef7309840e
@@ -87,14 +90,14 @@
   en: ff845d434b857afe
   zh: 04479bddf7650ede
 /deepseek-ai-dsh-experimental-agent-team/known-limitations-and-deferred-work:
-  en: 777abba6e3b496eb
-  zh: 2b8cd95e73f5e369
+  en: 4cae3edceadaee77
+  zh: e28cc8336d50d4f2
 /deepseek-ai-dsh-experimental-agent-team/known-limitations-and-deferred-work/dev-note:
-  en: 498e4cf9fe5741a7
-  zh: 9d2bab630e655c99
+  en: 283749b955a4031a
+  zh: 029eea9a8119b1e3
 /deepseek-ai-dsh-experimental-agent-team/known-limitations-and-deferred-work/dev-note/promotion:
-  en: 3d126e3b1015e4ce
-  zh: 22f0d18e2ce5c30f
+  en: 5c1a4884335e6ae9
+  zh: 262687686b644323
 /deepseek-ai-dsh-experimental-agent-team/known-limitations-and-deferred-work/dev-note/future-directions:
   en: 38eadeacd73b9c02
   zh: 05c5b55022e0b8d9

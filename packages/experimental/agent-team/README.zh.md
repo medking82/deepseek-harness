@@ -165,7 +165,6 @@ dispose 会关闭准入、中止并等待已获准的创建与 mailbox dispatch 
 - [Agent Teams 子系统](../../../docs/subsystems/agent-team.zh.md)——持久 Team 类型与 `ctx.agentTeams` 服务 API。
 - [tool-agent-team 包](../tool-agent-team/README.zh.md)——让模型创建 teammate、向其发送消息并进行协调的工具。
 - [Agent Teams Agent Note](../../../.agents/notes/implemented/feature/2026-08-05-agent-teams.zh.md)——身份、mailbox、任务与共享 checkout 决策。
-- 实验包参考——位置、公开发布与依赖隔离。
 
 -----
 
@@ -218,7 +217,7 @@ Peer 消息追加在 target 可复用历史前缀之后。冷恢复会先复用�
 
 #### Promotion
 
-promotion 到产品角色组需要按实验子树规则审查公共约定、限制、测试证据、发布载荷、运行时依赖与具名稳定 owner。
+promotion 到产品角色组需要审查公共约定、限制、测试证据、发布载荷、运行时依赖与具名稳定 owner。
 
 #### 未来方向
 

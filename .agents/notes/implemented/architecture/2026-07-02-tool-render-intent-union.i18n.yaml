@@ -6,17 +6,17 @@
   en: 599dd6f91059580e
   zh: b6a46767bb4198e6
 /agent-note-tagged-render-intent-union-for-tool-call-presentation/problem:
-  en: 3a4b92dca651b979
-  zh: 6b10ce7ba3681180
+  en: abd9f2a0c90c7469
+  zh: f3369398984d1d39
 /agent-note-tagged-render-intent-union-for-tool-call-presentation/decision:
-  en: aff6d789bde63f17
-  zh: 73782526b46a3ee5
+  en: 92506bae199fc713
+  zh: a798dbc061bbb495
 /agent-note-tagged-render-intent-union-for-tool-call-presentation/decision/why-a-tagged-union-beats-the-field-bag:
-  en: ed7b15039050e65e
-  zh: a719562b5fcdbd4e
+  en: e371a95310628614
+  zh: 502b39ed514f66f7
 /agent-note-tagged-render-intent-union-for-tool-call-presentation/decision/producer-mapping:
-  en: c87f22a29caef002
-  zh: 7bfd28c1df80b8a1
+  en: fa9d3a43affa0e40
+  zh: 5cd2c549afd81542
 /agent-note-tagged-render-intent-union-for-tool-call-presentation/decision/terminal-fallback-ownership:
   en: 0bb2f60726afc4d9
   zh: 60040141447b4a2e
@@ -24,8 +24,8 @@
   en: 1ba6a480967c524d
   zh: 90535e843f346bcf
 /agent-note-tagged-render-intent-union-for-tool-call-presentation/alternatives-considered:
-  en: 2cd4801f3162227b
-  zh: 76afaa23bc2b9eb0
+  en: bd3c3476e7d6b6e4
+  zh: a7b595cfef6e282f
 /agent-note-tagged-render-intent-union-for-tool-call-presentation/consequences:
   en: 81d8366d826285c2
   zh: b437b862794c146e
@@ -33,5 +33,5 @@
   en: e9d60967a9b3f9bd
   zh: 6dfa9ac30d847879
 /agent-note-tagged-render-intent-union-for-tool-call-presentation/related:
-  en: 00bdd1bb918bc844
-  zh: b6d40587041e3245
+  en: 02e3e2d07fb55466
+  zh: 296a50dcbb6d2525

@@ -3,23 +3,26 @@
 # After editing either side, bring the other along and re-record with:
 #   pnpm run verify-translation-pairing --write packages/client/README.md
 /:
-  en: 8d88d189ae9b47b5
-  zh: c228c9f1732419ad
+  en: cb3f91d54eee30e5
+  zh: cb3f91d54eee30e5
+/description-package-map-for-the-web-gui-browser-half-shell-boot-browser-host-communication-shared-client-services-localization-development-reload-and-the-ui-feature-plugins-kind-package-group:
+  en: e77d38c6239eb318
+  zh: f0c4b8ec294a5b33
 /client-web-gui-browser-half:
   en: 0b0e5d73f258a814
   zh: 5705a9605c112c44
 /client-web-gui-browser-half/summary:
-  en: 43e9fd5c8fbcb676
-  zh: 52076d2e78c5d4c1
+  en: c60e338575c82e08
+  zh: 6d235b8b604489b7
 /client-web-gui-browser-half/table-of-contents:
-  en: 1eb35b015a6c423f
-  zh: a8a3dceee2c9e943
+  en: 0edfb4942f5d8002
+  zh: 5eba326cfe8d26d9
 /client-web-gui-browser-half/packages:
-  en: 1aa93b8088fb1962
-  zh: 10feaed78bc6408c
+  en: 89de7ef03c34a711
+  zh: 718412a938213d29
 /client-web-gui-browser-half/related-documentation:
-  en: d1d506e68fab7333
-  zh: 1a90fe6f3f8f24a9
+  en: 8df8cba53402ce40
+  zh: 34604c0190dc7fbe
 /client-web-gui-browser-half/dev-note:
-  en: 5de1d6304e00c58f
-  zh: 8d8225361cfa29e5
+  en: 9887ec4396633340
+  zh: b69e9f3aadcb3785
