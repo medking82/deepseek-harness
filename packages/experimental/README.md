@@ -58,7 +58,7 @@ Experimental prototypes may change their contracts and carry no support promise.
 - [Computer use](../../docs/subsystems/computer-use.md) — desktop provider choices.
 - [Browser use](../../docs/subsystems/browser-use.md) — browser provider choices and Session ownership.
 - [Agent Teams subsystem](../../docs/subsystems/agent-team.md) — durable Team types and the `ctx.agentTeams` service API.
-- [Experimental subtree rules](AGENTS.md) — what experimental status does and does not relax.
+- Experimental subtree rules — what experimental status does and does not relax.
 
 -----
 
