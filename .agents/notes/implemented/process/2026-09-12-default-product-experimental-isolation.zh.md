@@ -22,7 +22,7 @@ Status: implemented
 
 [`verify-packed-install`](../../../../scripts/release/verify-packed-install.ts) 从 `@deepseek-ai/dsh` 遍历已安装依赖图，通过解析后的 manifest 名称识别别名和外部传递依赖。开发依赖以及安装在产品旁边的不相关 tarball 不参与遍历。缺失必需依赖会失败；允许省略可选依赖，但其名称不得指向实验包。
 
-此检查执行现有的[实验包依赖隔离规则](../../../../packages/experimental/AGENTS.md)。[发布策略](../../../../packages/experimental/README.zh.md) 独立决定显式消费者可以安装哪些实验包。
+此检查执行现有的[实验包依赖隔离规则](https://github.com/medking82/deepseek-harness/blob/5badb15009ae1756c3afe0ae0cef1faafc290ccc/packages/experimental/AGENTS.md)。[发布策略](../../../../packages/experimental/README.zh.md) 独立决定显式消费者可以安装哪些实验包。
 
 ## Alternatives considered
 

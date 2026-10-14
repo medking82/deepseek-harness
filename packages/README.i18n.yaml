@@ -3,8 +3,11 @@
 # After editing either side, bring the other along and re-record with:
 #   pnpm run verify-translation-pairing --write packages/README.md
 /:
-  en: b2be0c61aa2780eb
-  zh: c308e935e481f211
+  en: cb3f91d54eee30e5
+  zh: cb3f91d54eee30e5
+/description-the-deepseek-harness-package-workspace-how-the-npm-packages-under-packages-are-grouped-what-each-group-owns-and-the-conventions-that-bind-them-kind-package-group:
+  en: bad0c6d915ba493f
+  zh: 97152e12b5e811f9
 /packages:
   en: 9f8cdc7bf95bed2b
   zh: 9e25684a309f580a
@@ -12,11 +15,11 @@
   en: 299fb58abec76411
   zh: e9fdd53d39b755de
 /packages/table-of-contents:
-  en: ffc55792d6e922e1
-  zh: 83bd759638857e2d
+  en: 15791d3d9868a3f2
+  zh: b0c9bf47b4bf295f
 /packages/package-groups:
-  en: 989c5a7131853dc6
-  zh: 259d15e2bceb0bb5
+  en: 9704c4a2536a04c4
+  zh: 88b4771127f0a48a
 /packages/release-expectations:
   en: 7a152a53e2b1f2e5
   zh: 3c154c20db49713d
@@ -24,8 +27,8 @@
   en: 9576e7c486bf123f
   zh: fedd18da3e27ad00
 /packages/package-readme-contracts:
-  en: 9f35ef77d1b4c388
-  zh: 39cdc988e87a96c2
+  en: 085ccc0209af17dd
+  zh: 6ba294e1bd02bbd8
 /packages/dev-note:
-  en: 5de1d6304e00c58f
-  zh: 8d8225361cfa29e5
+  en: 9887ec4396633340
+  zh: b69e9f3aadcb3785

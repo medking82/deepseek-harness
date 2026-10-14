@@ -24,7 +24,6 @@ const PATTERNS = [
   'packages/*.md',
   'packages/*/*.md',
   'packages/*/*/*.md',
-  'AGENTS.md',
   '.agents/skills/**/*.md',
 ]
 

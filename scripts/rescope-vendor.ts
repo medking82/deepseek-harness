@@ -240,14 +240,6 @@ const EXACT_EDITS: readonly ExactEdit[] = [
     expect: 1,
   },
   {
-    // The root contract claimed vendored packages keep their upstream names.
-    id: 'root-agents-vendored-name-contract',
-    file: 'AGENTS.md',
-    find: 'vendored packages keep upstream names and are `private: true`. `cordis` is a peerDependency (+ dev) of every harness package.',
-    replace: 'vendor is [rescoped](docs/rescope.md) and `private: true`. Harness packages declare `@deepseek-ai/cordis` in `peerDependencies`/`devDependencies`.',
-    expect: 1,
-  },
-  {
     // The client purity gate reads `@deepseek-ai/` as "another plugin package".
     // The rescope moves the vendored framework and its libraries into that
     // namespace, where the gate would reject the library imports client

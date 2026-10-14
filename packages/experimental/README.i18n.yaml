@@ -3,8 +3,11 @@
 # After editing either side, bring the other along and re-record with:
 #   pnpm run verify-translation-pairing --write packages/experimental/README.md
 /:
-  en: 4a982c0d6f3a1bb9
-  zh: 47ba08d0a4ee1e6b
+  en: cb3f91d54eee30e5
+  zh: cb3f91d54eee30e5
+/description-the-experimental-group-map-publicly-installable-pre-stable-prototypes-kind-package-group:
+  en: 70d7d71bbc16399b
+  zh: bcfad45704272365
 /packages-experimental:
   en: 18bc48bb66b3e516
   zh: 51f2340a5c921f36
@@ -12,14 +15,14 @@
   en: 08c7a218325661ed
   zh: 1060e09be3774fe9
 /packages-experimental/table-of-contents:
-  en: 1eb35b015a6c423f
-  zh: a8a3dceee2c9e943
+  en: 0edfb4942f5d8002
+  zh: 5eba326cfe8d26d9
 /packages-experimental/packages:
-  en: f62358cfdf93a98c
-  zh: dd40ddceec13490c
+  en: e057f2927cf5f902
+  zh: 8cb14a0f066b1206
 /packages-experimental/related-documentation:
-  en: f8ab36525b5a89ec
-  zh: 1e828d1993e102f8
+  en: adc537ee5d9d8433
+  zh: bf3ce32a52a861be
 /packages-experimental/dev-note:
-  en: 5de1d6304e00c58f
-  zh: 8d8225361cfa29e5
+  en: 9887ec4396633340
+  zh: b69e9f3aadcb3785

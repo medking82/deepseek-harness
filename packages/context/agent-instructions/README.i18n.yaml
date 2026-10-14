@@ -3,8 +3,11 @@
 # After editing either side, bring the other along and re-record with:
 #   pnpm run verify-translation-pairing --write packages/context/agent-instructions/README.md
 /:
-  en: 3e005f834284c249
-  zh: d51d06d0ea2c30ca
+  en: cb3f91d54eee30e5
+  zh: cb3f91d54eee30e5
+/description-workspace-instruction-context-for-users-and-maintainers-enabling-sizing-or-debugging-agents-md-claude-md-loading-and-refresh-kind-package-reference:
+  en: 25eb91e2adfb636a
+  zh: dd7415f4e19a35cf
 /deepseek-ai-dsh-agent-instructions:
   en: e88163f21938a7e6
   zh: 17acc4af39bd7df0
@@ -12,8 +15,8 @@
   en: 9d849b3c7bc5e3b7
   zh: aee26ccc12e73fe3
 /deepseek-ai-dsh-agent-instructions/table-of-contents:
-  en: d152484eb41ac6b4
-  zh: 09388d293f9be9cb
+  en: eb6ed279e78f8b65
+  zh: 5583226de8ecca29
 /deepseek-ai-dsh-agent-instructions/use-this-package:
   en: d8c9258bcc5c9b32
   zh: 1bbeb9c58828d83c
@@ -21,20 +24,20 @@
   en: 68f776f145a0dec4
   zh: e63e9140aa305936
 /deepseek-ai-dsh-agent-instructions/use-this-package/configuration:
-  en: a9408dc631588be3
-  zh: b43bd6000437379c
+  en: c77735963c4ed23e
+  zh: 5b1225379ce069bd
 /deepseek-ai-dsh-agent-instructions/use-this-package/observing-the-budget:
   en: 9797082b1e69b72c
   zh: d26c00b1b90fe4ea
 /deepseek-ai-dsh-agent-instructions/understand-the-implementation:
-  en: 724df7ff6d1d9fea
-  zh: 91fb1013eb9178ec
+  en: 46a2df11b43ad9c9
+  zh: f76e307184f47cf3
 /deepseek-ai-dsh-agent-instructions/understand-the-implementation/design-concept:
   en: 4708b51bf8fe86f7
   zh: 869fc4b1f78383ee
 /deepseek-ai-dsh-agent-instructions/understand-the-implementation/source-map:
-  en: bbb499f8498f454c
-  zh: b6517adffd0ccb80
+  en: b34c2df8b891727b
+  zh: 3d6cca4cb15e7099
 /deepseek-ai-dsh-agent-instructions/understand-the-implementation/main-flow:
   en: d881b9055f823929
   zh: 87b25f0bf8e204e9
@@ -42,8 +45,8 @@
   en: 7f6e9b5356da91fd
   zh: 7b99f255d23d982e
 /deepseek-ai-dsh-agent-instructions/further-exploration:
-  en: b3e57c263575fa5f
-  zh: b67efbda908ac82c
+  en: 46e834f894a430f5
+  zh: 02e7135dd4834de6
 /deepseek-ai-dsh-agent-instructions/model-experience:
   en: 215e7ba838619b7b
   zh: a311da3843709f90
@@ -93,8 +96,8 @@
   en: 2fbf2175168e8244
   zh: f681f89596f500f5
 /deepseek-ai-dsh-agent-instructions/known-limitations-and-deferred-work:
-  en: 28dd93fabf4afae6
-  zh: 63380bbc1e085aa2
+  en: 51ced2f33a99939c
+  zh: cf3ea5aa853e6cc5
 /deepseek-ai-dsh-agent-instructions/known-limitations-and-deferred-work/dev-note:
-  en: e67f633dc6fe7773
-  zh: 3bb0c20c93f16f98
+  en: 34651d247c0d1bba
+  zh: b8b78bf26d28e4d6

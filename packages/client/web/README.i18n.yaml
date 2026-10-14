@@ -3,8 +3,11 @@
 # After editing either side, bring the other along and re-record with:
 #   pnpm run verify-translation-pairing --write packages/client/web/README.md
 /:
-  en: bd6e5fc50f07893f
-  zh: 0ee146674eb01770
+  en: cb3f91d54eee30e5
+  zh: cb3f91d54eee30e5
+/description-web-boot-kernel-for-the-web-gui-two-stage-boot-of-the-client-plugin-tree-the-framework-free-boot-page-and-the-shared-module-table-for-users-and-maintainers-composing-or-debugging-the-browser-application-kind-package-library:
+  en: 77bab6b05e4b52ba
+  zh: c89d4ff0ed8bf8f2
 /deepseek-ai-dsh-client-web:
   en: 8423614617b7bbf1
   zh: c99647136c800173
@@ -12,8 +15,8 @@
   en: 646bd0a246789400
   zh: d875dc0d37f46338
 /deepseek-ai-dsh-client-web/table-of-contents:
-  en: d152484eb41ac6b4
-  zh: 09388d293f9be9cb
+  en: eb6ed279e78f8b65
+  zh: 5583226de8ecca29
 /deepseek-ai-dsh-client-web/use-this-package:
   en: 0c8b98946feedb0f
   zh: ae10ae7b9ecbf89c
@@ -24,14 +27,14 @@
   en: add354591107b80d
   zh: 41136254a00d785e
 /deepseek-ai-dsh-client-web/use-this-package/the-shared-module-table:
-  en: 8380cd70b861a3a8
-  zh: 5a331deb7ad8fca1
+  en: 0fbbb064bc595c3b
+  zh: c3cc86d8f46c7f3d
 /deepseek-ai-dsh-client-web/use-this-package/configuration:
   en: 942959cb40ee31a1
   zh: 9c86ac2cf6a13976
 /deepseek-ai-dsh-client-web/understand-the-implementation:
-  en: 9556ca6438410146
-  zh: 8a60572cb4caa04a
+  en: 73d52427491acf18
+  zh: 1df993dce40e1a30
 /deepseek-ai-dsh-client-web/understand-the-implementation/design-concept:
   en: e18ec3ae51dcdc3f
   zh: e454da2038979aec
@@ -42,11 +45,11 @@
   en: 83f9195138da9a82
   zh: 135d7da735fb870a
 /deepseek-ai-dsh-client-web/understand-the-implementation/source-map:
-  en: 1fe37d3730368e32
-  zh: 74c2d6980ce82e21
+  en: d5ea0d150c9190bd
+  zh: f8cf927984e9205c
 /deepseek-ai-dsh-client-web/further-exploration:
-  en: f2da70a33bba9086
-  zh: a775f6fe309150ea
+  en: 7010d1e98b23fb79
+  zh: 762569d01c898764
 /deepseek-ai-dsh-client-web/model-experience:
   en: ec17334dcce181f3
   zh: bc8bc6e25ecbf9e8
@@ -57,5 +60,5 @@
   en: f498ba05d4ea96d5
   zh: c3e57dd8ca9b5bda
 /deepseek-ai-dsh-client-web/known-limitations-and-deferred-work/dev-note:
-  en: e67f633dc6fe7773
-  zh: 3bb0c20c93f16f98
+  en: 34651d247c0d1bba
+  zh: b8b78bf26d28e4d6
